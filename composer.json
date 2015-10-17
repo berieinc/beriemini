@@ -1,0 +1,11 @@
+{
+	"name": "berie/beriemini",
+	"description": "Berie Mini FrameWork",
+	"autoload": {
+		"psr-4": { "Berie\\": [""] }
+	},
+	"require": {
+		"php": ">=5.3.0",
+		"berie/orm": "0.*"
+	}
+}
